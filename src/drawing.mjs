@@ -129,6 +129,7 @@ class TextElement extends GenericElement {
   }
 }
 
+/*
 // the following is used for testing
 // create root element with fixed width and height
 const root = new RootElement();
@@ -155,3 +156,6 @@ console.log(root.toString());
 
 // write string version to file, starting at root element
 root.write("test.svg", () => console.log("done writing!"));
+*/
+
+export { GenericElement, RootElement, RectangleElement, TextElement };

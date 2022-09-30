@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg">
+<rect name="rect" x="0" y="0" width="120" height="200" fill="blue">
+</rect>
+<text name="text" x="0" y="250" font-size="15" fill="black">Murray Bartlett, 144
+</text>
+<rect name="rect" x="200" y="0" width="120" height="170" fill="yellow">
+</rect>
+<text name="text" x="200" y="250" font-size="15" fill="black">Jonathan Groff, 125
+</text>
+<rect name="rect" x="400" y="0" width="120" height="140" fill="black">
+</rect>
+<text name="text" x="400" y="250" font-size="15" fill="black">Hugh Laurie, 114
+</text>
+</svg>
